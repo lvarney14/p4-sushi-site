@@ -339,3 +339,18 @@ body.homepage .social li:hover,body.homepage .social li a:hover{
 /* Slideshow */
 
 @import "fotorama";
+
+
+/* Contact Form */
+
+.contact {
+	text-align: center;
+}
+
+/*Map */
+
+iframe {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+}
